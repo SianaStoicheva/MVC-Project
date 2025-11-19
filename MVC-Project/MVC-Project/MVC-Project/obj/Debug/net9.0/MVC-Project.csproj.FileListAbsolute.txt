@@ -1,0 +1,29 @@
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\obj\Debug\net9.0\MVC-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\obj\Debug\net9.0\MVC-Project.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\obj\Debug\net9.0\MVC-Project.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\obj\Debug\net9.0\MVC-Project.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\bin\Debug\net9.0\MVC-Project.exe
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\bin\Debug\net9.0\MVC-Project.deps.json
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\bin\Debug\net9.0\MVC-Project.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\bin\Debug\net9.0\MVC-Project.dll
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\bin\Debug\net9.0\MVC-Project.pdb
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\obj\Debug\net9.0\MVC-Project.dll
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\obj\Debug\net9.0\refint\MVC-Project.dll
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\obj\Debug\net9.0\MVC-Project.pdb
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\obj\Debug\net9.0\MVC-Project.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\obj\Debug\net9.0\ref\MVC-Project.dll
+C:\Users\lenovo\Desktop\Siana\MVC-Project\MVC-Project\obj\Debug\net9.0\MVC-Project.sourcelink.json
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\bin\Debug\net9.0\MVC-Project.exe
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\bin\Debug\net9.0\MVC-Project.deps.json
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\bin\Debug\net9.0\MVC-Project.runtimeconfig.json
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\bin\Debug\net9.0\MVC-Project.dll
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\bin\Debug\net9.0\MVC-Project.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\obj\Debug\net9.0\MVC-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\obj\Debug\net9.0\MVC-Project.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\obj\Debug\net9.0\MVC-Project.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\obj\Debug\net9.0\MVC-Project.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\obj\Debug\net9.0\MVC-Project.dll
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\obj\Debug\net9.0\refint\MVC-Project.dll
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\obj\Debug\net9.0\MVC-Project.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\obj\Debug\net9.0\MVC-Project.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-14\Desktop\Siana 11a\MVC-Project-main\MVC-Project-main\MVC-Project\obj\Debug\net9.0\ref\MVC-Project.dll
